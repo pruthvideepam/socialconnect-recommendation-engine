@@ -213,6 +213,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-> Built with ❤️ by [Pruthvi Deepam](https://github.com/pruthvideepam) for **MeetMux AI/ML Developer Intern Application**
+> Built with ❤️ by [Pruthvi Deepam](https://github.com/pruthvideepam)
+
 
 **🌟 Star this repo if it helped you build recommendation systems!**
